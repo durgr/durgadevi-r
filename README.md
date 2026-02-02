@@ -1,6 +1,6 @@
 # durgadevi-r
-Java Developer | Software Tester | Projects, code samples, and learning journey.
-# 👋 Hi, I'm Durga Devi R
+Java Developer | Software Developer | Projects, code samples, and learning journey.
+# 👋 Hi, I'm Durgadevi R
 
 🎯 Java Developer | Software Developer | QA Engineer (Fresher)  
 💡 Passionate about building reliable and user-friendly software  
@@ -27,19 +27,10 @@ I am actively looking for opportunities as:
 - SQL
 - HTML
 
-### 🧪 Testing
-- Manual Testing
-- Test Case Writing
-- Bug Reporting
-- Functional Testing
-- Regression Testing
-- STLC & SDLC
-
 ### ⚙️ Tools
-- MySQL
+- Oracle SQL
 - Git & GitHub
 - Eclipse / VS Code
-- JIRA (Basics)
 
 ---
 
@@ -49,12 +40,6 @@ I am actively looking for opportunities as:
 - Designed compact wearable antenna
 - Worked on fabrication & testing
 - Improved performance using metasurface
-
-### 🔹 E-commerce Website Testing
-- Created test cases
-- Performed manual testing
-- Reported bugs
-- Validated fixes
 
 ### 🔹 Java Mini Projects
 - Student Management System
@@ -68,16 +53,15 @@ I am actively looking for opportunities as:
 
 ## 📚 Currently Learning
 - Advanced Java
-- Data Structures
+- OOPs Concept
 - Web Development
-- Automation Testing
 
 ---
 
 ## 📫 Contact Me
-📧 durgaravi1125@gmail.com  
+📧 durgarp25@gmail.com  
 📱 +91 6374793348  
-🌍 India  
+🌍 Chennai, Tamilnadu, India  
 🔗 LinkedIn: (add your link)
 
 ---
